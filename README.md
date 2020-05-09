@@ -3,7 +3,7 @@ Lab_hw1
 Ido Botzer
 Alon Stein
 
-hw1_report.ipynb: jupyter notebook with data exploration, feature engeenring and algorithms hyperparmeter tunnig.
+hw1_report.pdf: report as jupyter notebook with data exploration, feature engeenring and algorithms hyperparmeter tunnig.
 
 predict.py: run algorithm.
 

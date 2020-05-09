@@ -1,0 +1,7 @@
+numpy==1.18.2
+pandas==1.0.2
+scikit-learn==0.22.2
+jupyter==1.0.0
+matplotlib==3.2.1
+nltk==3.5
+xgboost==1.0.2
